@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/t">
+        <file>images/tile_2.png</file>
+        <file>images/tile_4.png</file>
+        <file>images/tile_8.png</file>
+        <file>images/tile_16.png</file>
+        <file>images/tile_32.png</file>
+        <file>images/tile_64.png</file>
+        <file>images/tile_128.png</file>
+        <file>images/tile_256.png</file>
+        <file>images/tile_512.png</file>
+        <file>images/tile_1024.png</file>
+        <file>images/tile_2048.png</file>
+        <file>images/2048_logo.ico</file>
+        <file>images/2048_logo_black.ico</file>
+    </qresource>
+</RCC>
